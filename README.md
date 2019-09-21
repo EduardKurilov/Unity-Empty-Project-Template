@@ -1,16 +1,15 @@
-# Unity-Project-Template
+# Unity-Shader-Graphs
 
 
-This template is designed to simplify process of starting of new project in Unity engine using Git.
-You can simply:
+Репозиторий для аккумулирования лучших решений Unity Shader Graph.
+##Цели и назначение:
 
-1. Fork this repository
+1. Аккумулирования лучших решений Unity Shader Graph
 
-2. Rename it
+2. Аккумулирование и версионирование эксперимнтов и прототипов шейдеров
 
-3. Clone it
+3. Подключение во все проекты через **submodule**
 
-4. Develop your own projects in Unity using Git for version control
 
 
 
