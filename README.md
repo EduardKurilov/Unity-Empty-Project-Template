@@ -1,23 +1,18 @@
-# Unity-Shader-Graphs
+# Unity-Empty-Project-Template
 
 
-Репозиторий для аккумулирования лучших решений Unity Shader Graph.
+## Repository with:
 
-## Цели и назначение:
+1. Folders structure
 
-1. Аккумулирования лучших решений Unity Shader Graph
+3. .gitignore
 
-3. Аккумулирование сабграфов созданных в Shader Graph
+4. .gitattribute
 
-4. Аккумулирование и версионирование экспериментов и прототипов шейдеров
-
-3. Подключение во все проекты через **submodule**
 
 
 ### Markdown
 
 This and other readme files uses Markdown notation...
 
-* [Learn Markdown](http://daringfireball.net/projects/markdown/basics
-
-привет проверка
+* [Learn Markdown](http://daringfireball.net/projects/markdown/basics)
