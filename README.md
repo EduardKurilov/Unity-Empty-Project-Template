@@ -2,7 +2,6 @@
 
 
 
-
 ## Repository with:
 
 1. Folders structure
@@ -10,7 +9,6 @@
 3. .gitignore
 
 4. .gitattribute
-
 
 
 
