@@ -12,6 +12,7 @@ ehthumbs.db
 # Common #
 # ====== #
 /[Ll]ibrary/
+/[Uu]serSettings/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
